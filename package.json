@@ -1,0 +1,17 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "bot",
+  "deprecated": false,
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "lowdb": "^0.17",
+    "shortid": "^2.2.14"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Diego Braga",
+  "license": "ISC"
+}
